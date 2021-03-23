@@ -12,10 +12,6 @@ Our project and our contributions focused on two key challenges:
 
 (2) Object detection in videos with the referring expressions: A new dataset was created for object search with referring expressions (e.g. "blue car on the right") in videos; and we have developed new methods for searching objects with referring expressions in this dataset. It has been shown that the methods we have developed are very successful in detecting objects corresponding to complex referring expressions and in generating the most appropriate referring expression for two selected objects in a video.
 
-In addition to these, the project team has encountered certain problems while working on object detection and context, and proposed novel solutions. Among these are the analysis of imbalance problems in object detection; developing performance measures that are less affected by these imbalance problems; improving sampling methods and loss functions that work better under imbalance; development of more robust methods against labeling noise in object detection.
-
-Our project successfully achieved all its goals and our contributions have been published in the best conferences (ECCV, BMVC, NeurIPS) and journals (PAMI) of our field, and the project outputs were disseminated with the scientific community and society through invited talks and a workshop organized by the project team. With these contributions, graduate students who can conduct world-class research on an important problem of computer vision have been trained, and the know-how and our country's visibility in this field has been increased.
-
 ## Project Members
 
 * PI: [Emre Akbaş](https://user.ceng.metu.edu.tr/~emre/), Dept. of Computer Engineering, METU.
@@ -46,11 +42,13 @@ Ongoing:
 * Kemal Öksüz, Dept. of Computer Engineering, METU, 2021.
 * Nermin Samet, Dept. of Computer Engineering, METU, 2021. 
 
-### Workshops
+### Workshop
 
 * [ECCV2020 Workshop on Imbalance Problems in Computer Vision (IPCV)](https://sites.google.com/view/ipcv2020/home).
 
 ### Invited Talks
+
+* TBC.
 
 ## Models and Methods Developed within the Project
 
