@@ -1,9 +1,8 @@
-# Derin Sinir Ağları ile Videolarda Nesne Algılama
-
-{:.no_toc}
 
 * TOC 
 {:toc}
+
+## Projenin Amacı ve Katkıları
 
 ## Proje Ekibi 
 
