@@ -34,6 +34,7 @@ Our project and our contributions focused on two key challenges:
 ### Theses
 
 Completed:
+* Bedrettin Cetinkaya, "Does estimated depth help object detection?", Dept. of Computer Engineering, METU, 2020. [Thesis copy](https://open.metu.edu.tr/handle/11511/44129)
 * Baris Can Cam, “Training object detectors by directly optimizing LRP metric", Dept. of Computer Engineering, METU, 2020. [Thesis copy](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=FHUZtNW2yRDWU3VWBud_mg&no=V55zHSMS2t6FuhgksIMJFg)
 
 Ongoing:
