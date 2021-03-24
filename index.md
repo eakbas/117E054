@@ -71,6 +71,24 @@ A method and a dataset for object search in videos using referring expressions.
 
 The corresponding paper: Anayurt, H., Ozyegin, S. A., Cetin, U., Aktas, U., & Kalkan, S. (2019). Searching for ambiguous objects in videos using relational referring expressions. British Machine Vision Conference (BMVC). [link](https://bmvc2019.org/wp-content/uploads/papers/0697-paper.pdf)
 
+### [aLRP Loss](https://github.com/kemaloksuz/aLRPLoss) 
+
+A novel ranking based loss function for object detection. 
+
+The corresponding papers:
+* K. Oksuz, B. C. Cam, E. Akbas*, S. Kalkan*, "A Ranking-based, Balanced Loss Function Unifying Classification and Localisation in Object Detection", Thirty-fourth Conference on Neural Information Processing Systems (NeurIPS), spotlight paper, 2020. [Arxiv](https://arxiv.org/abs/2009.13592), [Conference page](https://proceedings.neurips.cc/paper/2020/hash/b2eeb7362ef83deff5c7813a67e14f0a-Abstract.html), [Code](https://github.com/kemaloksuz/aLRPLoss). *Equal senior contribution.  
+
+* K. Oksuz, B. C. Cam, S. Kalkan*, E. Akbas*, "One Metric to Measure them All: Localisation Recall Precision (LRP) for Evaluating Visual Detection Tasks", IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), under review, 2021. [Arxiv](https://arxiv.org/abs/2011.10772), [Code](https://github.com/kemaloksuz/LRP-Error) *Equal senior contribution.
+
+### [LRP Error](https://github.com/kemaloksuz/LRP-Error) 
+
+A novel evaluation metric for visual detection problems. 
+
+The corresponding papers:
+* K. Oksuz, B. C. Cam, S. Kalkan*, E. Akbas*, "One Metric to Measure them All: Localisation Recall Precision (LRP) for Evaluating Visual Detection Tasks", IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), under review, 2021. [Arxiv](https://arxiv.org/abs/2011.10772), [Code](https://github.com/kemaloksuz/LRP-Error) *Equal senior contribution.
+
+* K. Oksuz, B. C. Cam, E. Akbas, S. Kalkan, "Localization Recall Precision (LRP): A New Performance Metric for Object Detection", European Conference on Computer Vision (ECCV), pp. 521-537, Springer, 2018. [Arxiv](https://arxiv.org/abs/1807.01696), [Publisher's page](https://link.springer.com/chapter/10.1007/978-3-030-01234-2_31), [Code](https://github.com/cancam/LRP).
+
 ## Contact
 
 [Emre Akbas](https://user.ceng.metu.edu.tr/~emre/), Dept. of Computer Engineering, METU
