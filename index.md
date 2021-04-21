@@ -22,6 +22,7 @@ Our project and our contributions focused on two key challenges:
 
 ### Publications
 
+* N. Samet, S. Hicsonmez, E. Akbas, "HoughNet: Integrating near and long-range evidence for visual detection", IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), under review, 2021. [Arxiv](https://arxiv.org/abs/2104.06773) 
 * K. Oksuz, B. C. Cam, S. Kalkan*, E. Akbas*, "One Metric to Measure them All: Localisation Recall Precision (LRP) for Evaluating Visual Detection Tasks", IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), under review, 2021. [Arxiv](https://arxiv.org/abs/2011.10772), [Code](https://github.com/kemaloksuz/LRP-Error) *Equal senior contribution.
 * K. Oksuz, B. C. Cam, S. Kalkan*, E. Akbas*, "Imbalance Problems in Object Detection: A Review", IEEE Transactions on Pattern Analysis and Machine Intelligence (PAMI), in press, 2021. [Arxiv](https://arxiv.org/abs/1909.00169), [Publisher's page](https://ieeexplore.ieee.org/document/9042296), [Repository](https://github.com/kemaloksuz/ObjectDetectionImbalance) *Equal senior contribution.
 * N. Samet, S. Hicsonmez, E. Akbas, "HoughNet: Integrating near and long-range evidence for bottom-up object detection", European Conference on Computer Vision (ECCV), 2020. [Arxiv](https://arxiv.org/abs/2007.02355), [Publisher's page](https://link.springer.com/chapter/10.1007/978-3-030-58595-2_25), [Code](https://github.com/nerminsamet/houghnet).
