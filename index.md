@@ -35,14 +35,14 @@ Our project and our contributions focused on two key challenges:
 ### Theses
 
 Completed:
-* Bedrettin Cetinkaya, "Does estimated depth help object detection?", Dept. of Computer Engineering, METU, 2020. [Thesis copy](https://open.metu.edu.tr/handle/11511/44129)
-* Baris Can Cam, “Training object detectors by directly optimizing LRP metric", Dept. of Computer Engineering, METU, 2020. [Thesis copy](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=FHUZtNW2yRDWU3VWBud_mg&no=V55zHSMS2t6FuhgksIMJFg)
-* Kemal Öksüz, "Identifying and Addressing Imbalance Problems in Visual Detection", Dept. of Computer Engineering, METU, 2021.
+* Bedrettin Cetinkaya, "Does estimated depth help object detection?", MSc Thesis, Dept. of Computer Engineering, METU, 2020. [Thesis copy](https://open.metu.edu.tr/handle/11511/44129)
+* Baris Can Cam, “Training object detectors by directly optimizing LRP metric", MSc Thesis, Dept. of Computer Engineering, METU, 2020. [Thesis copy](https://tez.yok.gov.tr/UlusalTezMerkezi/tezDetay.jsp?id=FHUZtNW2yRDWU3VWBud_mg&no=V55zHSMS2t6FuhgksIMJFg)
+* Kemal Öksüz, "Identifying and Addressing Imbalance Problems in Visual Detection", PhD Thesis, Dept. of Computer Engineering, METU, 2021.
 
 Ongoing:
-* Hazan Anayurt, Dept. of Computer Engineering, METU, 2021.
-* Sezai Artun Özyeğin, Dept. of Computer Engineering, METU, 2021.
-* Nermin Samet, Dept. of Computer Engineering, METU, 2021. 
+* Hazan Anayurt, MSc Thesis, Dept. of Computer Engineering, METU, 2021.
+* Sezai Artun Özyeğin, MSc Thesis, Dept. of Computer Engineering, METU, 2021.
+* Nermin Samet, PhD Thesis, Dept. of Computer Engineering, METU, 2021. 
 
 ### Workshop
 
